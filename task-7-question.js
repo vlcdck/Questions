@@ -1,4 +1,4 @@
-let time = '59';
+let time = '59'; //String
 
 if (0 <= time && time <= 15){
     console.log('Перша чверть');
